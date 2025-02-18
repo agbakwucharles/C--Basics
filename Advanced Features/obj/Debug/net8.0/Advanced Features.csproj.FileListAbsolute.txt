@@ -1,0 +1,14 @@
+C:\Users\agbak\source\repos\Advanced Features\bin\Debug\net8.0\Advanced Features.exe
+C:\Users\agbak\source\repos\Advanced Features\bin\Debug\net8.0\Advanced Features.deps.json
+C:\Users\agbak\source\repos\Advanced Features\bin\Debug\net8.0\Advanced Features.runtimeconfig.json
+C:\Users\agbak\source\repos\Advanced Features\bin\Debug\net8.0\Advanced Features.dll
+C:\Users\agbak\source\repos\Advanced Features\bin\Debug\net8.0\Advanced Features.pdb
+C:\Users\agbak\source\repos\Advanced Features\obj\Debug\net8.0\Advanced Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agbak\source\repos\Advanced Features\obj\Debug\net8.0\Advanced Features.AssemblyInfoInputs.cache
+C:\Users\agbak\source\repos\Advanced Features\obj\Debug\net8.0\Advanced Features.AssemblyInfo.cs
+C:\Users\agbak\source\repos\Advanced Features\obj\Debug\net8.0\Advanced Features.csproj.CoreCompileInputs.cache
+C:\Users\agbak\source\repos\Advanced Features\obj\Debug\net8.0\Advanced Features.dll
+C:\Users\agbak\source\repos\Advanced Features\obj\Debug\net8.0\refint\Advanced Features.dll
+C:\Users\agbak\source\repos\Advanced Features\obj\Debug\net8.0\Advanced Features.pdb
+C:\Users\agbak\source\repos\Advanced Features\obj\Debug\net8.0\Advanced Features.genruntimeconfig.cache
+C:\Users\agbak\source\repos\Advanced Features\obj\Debug\net8.0\ref\Advanced Features.dll
