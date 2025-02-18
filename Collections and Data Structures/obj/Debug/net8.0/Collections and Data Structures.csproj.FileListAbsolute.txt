@@ -1,0 +1,14 @@
+C:\Users\agbak\source\repos\Collections and Data Structures\bin\Debug\net8.0\Collections and Data Structures.exe
+C:\Users\agbak\source\repos\Collections and Data Structures\bin\Debug\net8.0\Collections and Data Structures.deps.json
+C:\Users\agbak\source\repos\Collections and Data Structures\bin\Debug\net8.0\Collections and Data Structures.runtimeconfig.json
+C:\Users\agbak\source\repos\Collections and Data Structures\bin\Debug\net8.0\Collections and Data Structures.dll
+C:\Users\agbak\source\repos\Collections and Data Structures\bin\Debug\net8.0\Collections and Data Structures.pdb
+C:\Users\agbak\source\repos\Collections and Data Structures\obj\Debug\net8.0\Collections and Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agbak\source\repos\Collections and Data Structures\obj\Debug\net8.0\Collections and Data Structures.AssemblyInfoInputs.cache
+C:\Users\agbak\source\repos\Collections and Data Structures\obj\Debug\net8.0\Collections and Data Structures.AssemblyInfo.cs
+C:\Users\agbak\source\repos\Collections and Data Structures\obj\Debug\net8.0\Collections and Data Structures.csproj.CoreCompileInputs.cache
+C:\Users\agbak\source\repos\Collections and Data Structures\obj\Debug\net8.0\Collections and Data Structures.dll
+C:\Users\agbak\source\repos\Collections and Data Structures\obj\Debug\net8.0\refint\Collections and Data Structures.dll
+C:\Users\agbak\source\repos\Collections and Data Structures\obj\Debug\net8.0\Collections and Data Structures.pdb
+C:\Users\agbak\source\repos\Collections and Data Structures\obj\Debug\net8.0\Collections and Data Structures.genruntimeconfig.cache
+C:\Users\agbak\source\repos\Collections and Data Structures\obj\Debug\net8.0\ref\Collections and Data Structures.dll

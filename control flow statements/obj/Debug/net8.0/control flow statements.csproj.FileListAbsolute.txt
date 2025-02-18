@@ -1,0 +1,14 @@
+C:\Users\agbak\source\repos\control flow statements\bin\Debug\net8.0\control flow statements.exe
+C:\Users\agbak\source\repos\control flow statements\bin\Debug\net8.0\control flow statements.deps.json
+C:\Users\agbak\source\repos\control flow statements\bin\Debug\net8.0\control flow statements.runtimeconfig.json
+C:\Users\agbak\source\repos\control flow statements\bin\Debug\net8.0\control flow statements.dll
+C:\Users\agbak\source\repos\control flow statements\bin\Debug\net8.0\control flow statements.pdb
+C:\Users\agbak\source\repos\control flow statements\obj\Debug\net8.0\control flow statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agbak\source\repos\control flow statements\obj\Debug\net8.0\control flow statements.AssemblyInfoInputs.cache
+C:\Users\agbak\source\repos\control flow statements\obj\Debug\net8.0\control flow statements.AssemblyInfo.cs
+C:\Users\agbak\source\repos\control flow statements\obj\Debug\net8.0\control flow statements.csproj.CoreCompileInputs.cache
+C:\Users\agbak\source\repos\control flow statements\obj\Debug\net8.0\control flow statements.dll
+C:\Users\agbak\source\repos\control flow statements\obj\Debug\net8.0\refint\control flow statements.dll
+C:\Users\agbak\source\repos\control flow statements\obj\Debug\net8.0\control flow statements.pdb
+C:\Users\agbak\source\repos\control flow statements\obj\Debug\net8.0\control flow statements.genruntimeconfig.cache
+C:\Users\agbak\source\repos\control flow statements\obj\Debug\net8.0\ref\control flow statements.dll
